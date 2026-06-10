@@ -55,6 +55,6 @@ San Francisco State University
 
 ## Connect With Me
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: linkedin.com/in/nav-singh-4a5a09266
 
-Email: [singhnavj244@gmail.com](mailto:singhnavj244@gmail.com)
+Email: singhnavj244@gmail.com
