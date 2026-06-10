@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Navjot Singh
 
-<!--
-**nsingh166/nsingh166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a passion for software development, artificial intelligence, automation, and solving complex technical problems.
 
-Here are some ideas to get you started:
+My background combines hands-on technical troubleshooting, team leadership, and software development. After earning my B.S. in Computer Science from San Francisco State University, I began focusing on building software and AI-driven solutions that solve real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+### Raspberry Pi AI Voice Assistant
+
+Developing a voice-enabled AI assistant that leverages conversational AI and voice-processing technologies to create a hands-free user experience.
+
+### Automated Slack Weather Bot
+
+Built an automated weather reporting system that delivers scheduled weather updates to Slack channels using APIs and workflow automation.
+
+## Technical Skills
+
+**Languages**
+
+* Java
+* Python
+* JavaScript
+* C++
+* SQL
+
+**Technologies**
+
+* Git
+* GitHub
+* Linux
+* Node.js
+* React
+* MySQL
+
+**Areas of Interest**
+
+* Artificial Intelligence
+* Automation
+* Software Engineering
+* Cloud Computing
+* Backend Development
+
+## Education
+
+Bachelor of Science in Computer Science
+San Francisco State University
+
+## Current Goals
+
+* Build AI-powered applications
+* Expand cloud computing expertise
+* Contribute to open-source projects
+* Grow as a software engineer
+
+## Connect With Me
+
+LinkedIn: [Your LinkedIn URL]
+
+Email: [singhnavj244@gmail.com](mailto:singhnavj244@gmail.com)
